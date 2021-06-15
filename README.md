@@ -1,4 +1,4 @@
- # 👋 Hi, I’m Oséias (java development)
+ # 👋 Hi, I’m Oséias (java developer)
 - 👀 I’m interested in Java and Web development
 - 🌱 I’m currently learning Object Oriented Development
 - 📫 Contact me: oseas-ramos123@hotmail.com
