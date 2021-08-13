@@ -1,6 +1,5 @@
  # 👋 Hi, I’m Oséias (java developer)
- 
- # David Ramos 🤘!
+
 It is not the programming language that defines the programmer, but its logic.🧠💻. <br>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/o-ramos-css//)
