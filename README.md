@@ -9,7 +9,7 @@ It is not the programming language that defines the programmer, but its logic.ðŸ
 [
 ![OsÃ©ias Github stats](https://github-readme-stats.vercel.app/api?username=Oseias-rds&layout=compact&theme=dracula&hide=pascal)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-rds&layout=compact&theme=dracula&hide=pascal)](https://github.com/Oseias-rds
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias-rds&layout=compact&theme=dracula&hide=pascal)](https://github.com/Oseias-rds)
 
 
 
